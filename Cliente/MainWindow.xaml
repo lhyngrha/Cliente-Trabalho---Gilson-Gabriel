@@ -1,0 +1,69 @@
+﻿<Window x:Class="Cliente.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cliente"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="3.352"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.674"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="txtDesc" HorizontalAlignment="Left" Height="23" Margin="153,10,0,0" TextWrapping="Wrap" Text="Descricao" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtLocal" HorizontalAlignment="Left" Height="23" Margin="295,10,0,0" TextWrapping="Wrap" Text="Local" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="datapica" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="120"/>
+        <CheckBox x:Name="cehck" Content="CheckBox" HorizontalAlignment="Left" Margin="153,42,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="198" Margin="10,111,0,0" VerticalAlignment="Top" Width="497">
+            <ListBox.ItemTemplate>
+
+                
+                <DataTemplate>
+
+                    
+                    <StackPanel Orientation="Horizontal">
+
+                        
+                        <TextBlock FontSize="14" Text="{Binding id}" />
+
+                        
+                        <TextBlock FontSize="14" Text=" - " />
+
+                        
+                        <TextBlock FontSize="14" Text="{Binding descricao}"/>
+                        <TextBlock FontSize="14" Text=" - " />
+
+
+                        <TextBlock FontSize="14" Text="{Binding local}"/>
+                        <TextBlock FontSize="14" Text=" - " />
+
+
+                        <TextBlock FontSize="14" Text="{Binding data}"/>
+                        <TextBlock FontSize="14" Text=" - " />
+
+
+                        <TextBlock FontSize="14" Text="{Binding realizado}"/>
+
+
+                    </StackPanel>
+
+                    
+                </DataTemplate>
+
+                
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+        <Button x:Name="btnInsert" Content="Inserir" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top" Width="75" Click="btnInsert_Click"/>
+        <Button x:Name="btnSelect" Content="Listar" HorizontalAlignment="Left" Margin="90,78,0,0" VerticalAlignment="Top" Width="75" Click="btnSelect_Click"/>
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="170,78,0,0" VerticalAlignment="Top" Width="75" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="Deletar" HorizontalAlignment="Left" Margin="250,78,0,0" VerticalAlignment="Top" Width="75" Click="btnDelete_Click"/>
+    </Grid>
+</Window>
