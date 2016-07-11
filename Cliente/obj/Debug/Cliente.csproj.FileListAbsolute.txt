@@ -19,3 +19,24 @@ c:\users\20131011110029\documents\visual studio 2015\Projects\Cliente\Cliente\ob
 c:\users\20131011110029\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
 c:\users\20131011110029\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.exe
 c:\users\20131011110029\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.exe
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.csproj.App.config
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\MainWindow.g.cs
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\App.g.cs
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente_MarkupCompile.cache
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente_MarkupCompile.lref
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\Cliente.exe
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\MainWindow.baml
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.g.resources
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Isaac Medeiros\Documents\Visual Studio 2015\Projects\Cliente-Trabalho---Gilson-Gabriel\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache

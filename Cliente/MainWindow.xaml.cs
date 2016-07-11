@@ -108,14 +108,10 @@ namespace Cliente
             HttpClient httpClient = new HttpClient();
 
             httpClient.BaseAddress = new Uri(ip);
-            Compromisso f = new Compromisso
-            {
-                id = int.Parse(txtId.Text),
-                descricao = txtDesc.Text,
-                local = txtLocal.Text,
-                data = Convert.ToDateTime(datapica.SelectedDate),
-                realizado = cehck.IsChecked.Value
-            };
+            var miojo = (Compromisso)listBox.SelectedItem;
+            Compromisso f = new Compromisso();
+            f = miojo;
+            f.realizado = true;
 
             string s = "=" + JsonConvert.SerializeObject(f);
 

@@ -65,5 +65,6 @@
         <Button x:Name="btnSelect" Content="Listar" HorizontalAlignment="Left" Margin="90,78,0,0" VerticalAlignment="Top" Width="75" Click="btnSelect_Click"/>
         <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="170,78,0,0" VerticalAlignment="Top" Width="75" Click="btnUpdate_Click"/>
         <Button x:Name="btnDelete" Content="Deletar" HorizontalAlignment="Left" Margin="250,78,0,0" VerticalAlignment="Top" Width="75" Click="btnDelete_Click"/>
+        <Button x:Name="btnRealizado" Content="Realizado" HorizontalAlignment="Left" Margin="330,78,0,0" VerticalAlignment="Top" Width="75" AllowDrop="True" Click="btnRealizado_Click"/>
     </Grid>
 </Window>
